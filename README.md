@@ -31,16 +31,13 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🐍 Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sameershan01/sameershan01/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sameershan01/sameershan01/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sameershan01/sameershan01/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
 
----
-[![](https://komarev.com/ghpvc/?username=sameershan01&icon=0&color=0)](https://visitcount.itsvg.in)
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
